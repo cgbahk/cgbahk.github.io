@@ -1,3 +1,9 @@
+__TODO__ edit with following references
+* [Adding a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
+* [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
+
+...
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cgbahk/cgbahk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
