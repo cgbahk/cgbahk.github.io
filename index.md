@@ -2,6 +2,9 @@ __TODO__ edit with following references
 * [Adding a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
 * [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
 
+__Reading List__
+* [a full reference guide to Git commands](https://git-scm.com/docs)
+
 ...
 
 ## Welcome to GitHub Pages
