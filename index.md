@@ -1,9 +1,29 @@
 __TODO__ edit with following references
 * [Adding a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
 * [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
+* MPU-9250 library
 
 __Reading List__
 * [a full reference guide to Git commands](https://git-scm.com/docs)
+
+
+__My interests are...__
+* Acadmic
+  * robotics
+  * control theory
+  * mathematical optimization
+  * networked system and distributed control
+  * geometry(... but not specifed, should work on more)
+  * and hope to contribute GitHub! especially on estimation and mechatronics
+* Life
+  * playing tennis
+  * (always hope to) surfing (but sadly had little chance)
+* Loves
+  * MacBook, iPad Pro and Scooter, without which I cannot live a single day
+  * learning computer skills. I am in very introductory level
+    * new / introductory: python (with Anaconda), Julia, both with Jupyter notebook
+    * old but dim: C++, Java, C#, Telegram API (which is very convinent)
+    * don't know but eager to learn: Server-side language (I want to build a server!)
 
 ...
 
